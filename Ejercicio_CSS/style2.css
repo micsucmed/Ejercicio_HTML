@@ -1,0 +1,19 @@
+.texto-rojo {
+    color: red;
+}
+
+.texto-azul {
+    color: blue
+}
+
+.texto-naranja {
+    color: orange;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+.negrilla {
+    font-weight: bold;
+}

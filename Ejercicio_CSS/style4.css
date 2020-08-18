@@ -1,0 +1,19 @@
+.introducir-texto {
+    background-color: greenyellow;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.seccion {
+    font-weight: bolder;
+    font-size: large;
+    color: orangered;
+}
+
+.button-a {
+    background-color: white;
+    border-radius: 5px;
+    border-width: thin;
+    border-color: gainsboro;
+    text-align: center;
+  }
